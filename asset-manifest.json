@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/space-data-app/static/css/main.073c9b0a.css",
+    "main.js": "/space-data-app/static/js/main.942371e7.js",
+    "static/js/787.e74052d9.chunk.js": "/space-data-app/static/js/787.e74052d9.chunk.js",
+    "index.html": "/space-data-app/index.html",
+    "main.073c9b0a.css.map": "/space-data-app/static/css/main.073c9b0a.css.map",
+    "main.942371e7.js.map": "/space-data-app/static/js/main.942371e7.js.map",
+    "787.e74052d9.chunk.js.map": "/space-data-app/static/js/787.e74052d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.942371e7.js"
+  ]
+}
